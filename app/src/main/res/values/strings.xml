@@ -1,0 +1,30 @@
+<resources>
+    <!-- Parâmetros da pessoa -->
+    <string name="avatar_image_description">Imagem ilustrativa do usuário</string>
+    <string name="app_name">Ftec Exercicio</string>
+    <string name="lbl_firstName">Nome:</string>
+    <string name="lbl_lastName">Sobrenome:</string>
+    <string name="lbl_email">E-mail:</string>
+    <string name="lbl_address">Endereço:</string>
+    <string name="lbl_city">Cidade:</string>
+    <string name="lbl_state">Estado:</string>
+    <string name="lbl_username">Usuário:</string>
+    <string name="lbl_password">Senha:</string>
+    <string name="lbl_birthday">Nascimento:</string>
+    <string name="lbl_phone">Telefone:</string>
+    <string name="hint_firstName">Fulano</string>
+    <string name="hint_lastName">De Tal</string>
+    <string name="hint_email">fulano@gmail.com</string>
+    <string name="hint_address">Rua ForadeCasa, N 666</string>
+    <string name="hint_city">Porto Alegre</string>
+    <string name="hint_state">Rio Grande do Sul</string>
+    <string name="hint_username">fulano12tal</string>
+    <string name="hint_password">* * * * * * *</string>
+    <string name="hint_birthday">15/06/1950</string>
+    <string name="hint_phone">(51) 9 9999 9999</string>
+
+    <string name="btn_location">Ver no mapa</string>
+    <string name="newUser">Novo usuário</string>
+    <string name="title_activity_user_map">UserMapActivity</string>
+    <string name="lblCoordenates">Coordenadas:</string>
+</resources>
